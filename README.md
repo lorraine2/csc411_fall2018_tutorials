@@ -27,8 +27,12 @@ pip install numpy
 .
 ├── README.md
 └── week2
+    ├── 02_linear_algebra.key
+    ├── 02_linear_algebra.pdf
+    ├── CSC411_Fall_2018_Tutorial1_lecture.ipynb
+    └── CSC411_Fall_2018_Tutorial1_worksheet.ipynb
 
-1 directory, 1 file
+1 directory, 5 files
 ```
 ## Authors
 
