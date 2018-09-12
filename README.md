@@ -34,8 +34,9 @@ pip install numpy
 
 1 directory, 5 files
 ```
-## Authors
 
 ## License
 
 ## Acknowledgments
+
+All instructors and assistants for CSC411/CSC2515 Fall 2018 at The University of Toronto.
