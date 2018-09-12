@@ -21,6 +21,7 @@ For example, inside your python environment with pip:
 pip install numpy
 ```
 
+Each week contains a `README` with guidance on how to present the material to the class.
 
 ## File Structure
 ```
