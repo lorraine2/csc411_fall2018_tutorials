@@ -5,8 +5,7 @@ The week 2 tutorial for the Fall 2018 CSC411/CSC2515 (Introduction to Machine Le
 
 This week consists of a lecture using both a set of slides with an instructor run jupyter notebook, followed by an exercise for the students.
  
-First, present the slides `linear_algebra_goodfellow.pdf`.  The slides are located [here](https://www.deeplearningbook.org/slides/02_linear_algebra.pdf).
-The slides should take about 25 minutes
+First, present the slides `linear_algebra_goodfellow.pdf`.  The slides are located [here](https://www.deeplearningbook.org/slides/02_linear_algebra.pdf) and should take about 25 minutes.
 
 Second, present the jupyter notebook `CSC411_Fall_2018_Tutorial1_lecture.ipynb`.
 Jupyter notebooks can be launched with `jupyter notebook` within a python environment.
@@ -19,7 +18,7 @@ This presentation should take about 20 minutes.
 
 Finally, present the exercise `CSC411_Fall_2018_Tutorial1_worksheet.ipynb`.
 To do this, present each problem to the class.
-Ask the class to to implement the problem twice - without using numpy and with numpy.
+Ask the class to to implement the problem twice (on paper) - without using numpy and with numpy.
 Run both the non-vectorized and vectorized examples from `CSC411_Fall_2018_Tutorial1_worksheet.ipynb` to illustrate the speed differences.
 Repeat for each problem.
 The exercise should take about 15 minutes.
