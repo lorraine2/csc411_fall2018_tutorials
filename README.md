@@ -28,12 +28,14 @@ Each week contains a `README` with guidance on how to present the material to th
 .
 ├── README.md
 └── week2
-    ├── 02_linear_algebra.key
-    ├── 02_linear_algebra.pdf
     ├── CSC411_Fall_2018_Tutorial1_lecture.ipynb
-    └── CSC411_Fall_2018_Tutorial1_worksheet.ipynb
+    ├── CSC411_Fall_2018_Tutorial1_worksheet.ipynb
+    ├── README.md
+    ├── linear_algebra_goodfellow.key
+    ├── linear_algebra_goodfellow.pdf
+    └── supplementary_linear_algebra_srihari.pdf
 
-1 directory, 5 files
+1 directory, 7 files
 ```
 
 ## License
