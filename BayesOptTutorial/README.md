@@ -59,4 +59,4 @@ Note the trade off between exploration and exploration.
 ## Citations
 
 * Slides - Ryan P. Adams, [https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf](https://www.iro.umontreal.ca/~bengioy/cifar/NCAP2014-summerschool/slides/Ryan_adams_140814_bayesopt_ncap.pdf)
-* Bayesian Optimization library - Fernando Nogueira, [https://github.com/fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
+* Bayesian Optimization library and examples - Fernando Nogueira, [https://github.com/fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
