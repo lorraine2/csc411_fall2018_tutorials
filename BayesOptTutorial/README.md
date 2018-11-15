@@ -32,7 +32,7 @@ jupyter notebook
 
 ## Lesson Plan
 
-The first goal is to present the power point.
+The first goal is to present the first 45 slides of the power point.
 This should take about 35 minutes.
 
 The second goal is to present the ipython notebooks which are located in `BayesianOptimization/examples`.
@@ -43,8 +43,17 @@ cd BayesianOptimization/examples
 jupyter notebook
 ```
 
+Make sure that you installed the library with
+```
+python setup.py install
+```
+
 First, present `visualization.ipynb`, then with any remaining time present `exploration_vs_exploitation.ipynb`.
 This should take the final 15 minutes.
+Note how we use the acquisition function to choose where to explore next.
+Note how there are local optima's for the acquisiton function.
+Note the different choices of acquisition function.
+Note the trade off between exploration and exploration.
 
 
 ## Acknowledgments
